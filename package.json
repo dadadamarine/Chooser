@@ -1,0 +1,19 @@
+{
+  "name": "oacs-arden",
+  "version": "1.0.0",
+  "description": "아르덴의 작은상점 홈페이지",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotheadfactory/oacs-arden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotheadfactory/oacs-arden/issues"
+  },
+  "homepage": "https://github.com/hotheadfactory/oacs-arden#readme"
+}

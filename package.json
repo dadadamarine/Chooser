@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hotheadfactory/oacs-arden/issues"
   },
-  "homepage": "https://github.com/hotheadfactory/oacs-arden#readme"
+  "homepage": "https://github.com/hotheadfactory/oacs-arden#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "supervisor": "^0.12.0"
+  }
 }
